@@ -1,1 +1,1 @@
-teerex store
+TeeRex Store
